@@ -1,0 +1,43 @@
+White
+- lowHSV	(0, 0, 80)
+- highHSV	(180, 90, 255)
+
+Black
+- lowHSV	(0, 0, 0)
+- highHSV	(180, 255, 80)
+
+Grey
+- lowHSV	(0, 0, 50)
+- highHSV	(180, 255, 255)
+
+Yellow
+- lowHSV	(20, 130, 130)
+- highHSV	(50, 255, 255)
+
+Red
+- lowHSV	(0, 130, 70)
+- highHSV	(9, 255, 130)
+
+Blue
+- lowHSV	(90, 80, 90)
+- highHSV	(110, 240, 255)
+
+Green
+- lowHSV	(50, 70, 30)
+- highHSV	(90, 255, 255)
+
+Brown
+- lowHSV	(0, 50, 60)
+- highHSV	(180, 170, 160)
+
+Pink
+- lowHSV	(130, 70, 180)
+- highHSV	(170, 225, 255)
+
+Orange
+- lowHSV	(5, 130, 180)
+- highHSV	(15, 255, 255)
+
+Purple
+- lowHSV	(90, 90, 90)
+- highHSV	(150, 255, 255)
