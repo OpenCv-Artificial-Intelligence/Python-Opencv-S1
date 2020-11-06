@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread("pic/18.jpg")
+image = cv2.imread("DetectingCircles.jpg")
 output = image.copy()
 gray = cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 

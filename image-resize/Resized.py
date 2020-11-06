@@ -1,6 +1,6 @@
 import cv2
  
-img = cv2.imread('5.jpg', cv2.IMREAD_UNCHANGED)
+img = cv2.imread('DetectingCircles.jpg', cv2.IMREAD_UNCHANGED)
  
 print('Original Dimensions : ',img.shape)
  

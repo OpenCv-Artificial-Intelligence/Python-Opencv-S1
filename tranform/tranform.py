@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Read a image
-I = cv2.imread('i.png')
+I = cv2.imread('tranform.png')
 
 # Define the polygon coordinates to use or the crop
 polygon = [[[20,110],[450,108],[340,420],[125,420]]]
