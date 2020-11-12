@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread('color.jpg')
+image = cv2.imread('color_pencil.jpg')
 cv2.imshow('show image',image)
 
 img_output = image.copy()
